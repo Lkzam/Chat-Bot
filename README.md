@@ -1,6 +1,4 @@
-This project was generated from [create.xyz](https://create.xyz/).
-
-It is a [Next.js](https://nextjs.org/) project built on React and TailwindCSS.
+Um Chat bot onde o ADM pode criar respostas personalizas para cada pergunta, conta também com uma tela de gerenciamento que mostra os tópicos mais perguntados e os históricos das conversar
 
 ## Getting Started
 
